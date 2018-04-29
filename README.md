@@ -6,7 +6,7 @@ My code samples for the DevSum 2017 conference in Stockholm, Sweden
 
 You can see the details and the slides here:
 
-http://galasoft.ch/presentations/presentationdetails.cshtml?name=2017013
+http://galasoft.ch/presentations/2017013
 
 # Content
 
